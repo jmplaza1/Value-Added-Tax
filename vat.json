@@ -68,31 +68,45 @@
 									{
 									"name": "Husband and Wife",
 									"url": "",
-									"details": "",
-									"children": []
+									"details": "Husband and wife shall be considered as separate taxpayers for purposes of the P3M threshold. However, the aggregation rule for each taxpayer shall apply.",
+									"children": [
+												{
+												"name": "Aggregation Rule",
+												"url": "",
+												"details": "A spouse who derives revenue not only from the practice of his profession but also from other lines of trade or businesses, which are likewise subject to VAT, shall be aggregated for the purpose of determining whether the threshold has been exceeded",
+												"children": []
+												}
+												]
 									},
 									{
 									"name": "Joint Venture",
 									"url": "",
-									"details": "",
-									"children": []
+									"details": "An unincorporated joint venture undertaking construction or energy-related contractual activities with the government, altough exempt from income tax, shall be liable for VAT",
+									"children": [
+												{
+												"name": "Exception",
+												"url": "",
+												"details": "If the unincorporated joint venture is treated merely as a flowthrough entity, the members of the joint venture are responsive for their respective obligations under the join venture agreement and can claim input tax on their taxable purchases",
+												"children": []
+												}											
+												]
 									},
 									{
 									"name": "Government",
 									"url": "",
-									"details": "",
+									"details": "a) performance of essential governmental functions - exempt from VAT; b) performance of their proprietary functions - liable to pay VAT",
 									"children": []
 									},
 									{
-									"name": "Non-stock, Nonprofit Association",
+									"name": "Non-stock, Nonprofit Association [NIRC, Sec. 105]",
 									"url": "",
-									"details": "",
+									"details": "a) Not undertaking any taxable transaction - exempt from VAT; b) Engaged in any taxable sale of goods or services - liable to pay VAT",
 									"children": []
 									},
 									{
 									"name": "Importer",
 									"url": "",
-									"details": "",
+									"details": "Generally, it is the seller who shall pay the output tax on his taxable sales. However, in case of importation, it shall be the importer who shall pay VAT prior to the release of the goods from the customs territory. This is an exception to the general rule requiring  a sale before VAT to be incurred.",
 									"children": []
 									}									
 									]
@@ -108,8 +122,52 @@
 						{
 						"name": "On Sale of Goods or Properties",
 						"url": "",
-						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-						"children": []
+						"details": "means all tangible and intangible objects which are capable of pecuniary estimation and shall include, among others: RP-EMT",
+						"children": [
+									{
+									"name": "Shall Include, Among others: RP-EMT",
+									"url": "",
+									"details": ""
+									"children": [
+												{
+												"name": "1) Real properties held primarily for sale to customers or held for lease in the ordinary course of trade of business",
+												"url": "",
+												"details": "",
+												"children": []
+												},
+												{
+												"name": "2) the right or privilege to use patent, copyright, design or model, plan, secret forumla, or process, goodwill, trademark, or other like Property right",
+												"url": "",
+												"details": "",
+												"children": []
+												},
+												{
+												"name": "3) the right or privilege to use in the Philippines any industrial, commercial, or scientific Equipment",
+												"url": "",
+												"details": "",
+												"children": []
+												},
+												{
+												"name": "4) the right or privilege to use Motion pictures, films, tapes, and discs",
+												"url": "",
+												"details": "",
+												"children": []
+												},
+												{
+												"name": "Radio, television, satellite Transmission and cable television time",
+												"url": "",
+												"details": "",
+												"children": []
+												}												
+												]
+									},
+									{
+									"name": "Requisites for Taxability of Sale of Goods and Personal Properties",
+									"url": "",
+									"details": "1) The properties are located within the Philippines, and are for use or consumption therein; 2) There in an Actual or deemed sale, barter or exchange of goods or personal properties for a valuable consideration; 3) The sale in Not exempt from VAT; 4) The sale is in the course of trade or business or exercise of profession in the Philippines"
+									"children":[]
+									}									
+									]
 						},
 						{
 						"name": "On Sale of Real Properties",
