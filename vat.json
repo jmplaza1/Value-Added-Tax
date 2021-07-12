@@ -57,7 +57,47 @@
 			"name": "Zero-Rated Sales of VAT Registered Persons",
 			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-			"children": []
+			"children": [
+						{
+						"name": "Kinds as to Object of Sale",
+						"url": "",
+						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+						"children": [
+									{
+									"name": "Zero-Rated Sales of Goods or Properties",
+									"url": "",
+									"details": "SRROII",
+									"children": [
+												{
+												"name": "Sale and Actual Shipment of Goods from the Philippines to a Foreign Country",
+												"url": "",
+												"details": "irrespective of any shipping arrangement that may be agreed upon which may influence or determine the transfer of ownership of the goods so exported, paid for in acceptable foreign currency or its equivalent in goods or services, and accounted for in accordance with the rules and regulations of the BSP",
+												"children": []
+												}
+												]
+									}
+									]
+						},
+						{
+						"name": "Kinds as to How the Transaction shall be Subject to Zero-Rating",
+						"url": "",
+						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+						"children": [
+									{
+									"name": "Automatically Zero-Rated Sales",
+									"url": "",
+									"details": "A sale of goods, properties and services by a VAT-registered seller/suplier that is regarded as either an export sale or a foreign currency denominated sale under Sec. 106, NIRC.",
+									"children": []
+									},
+									{
+									"name": "Effectively Zero-Rated Sales",
+									"url": "",
+									"details": "The local sale of goods, properties, and services by a VAT registered person to an entity that was granted indirect tax exemption under special laws or international agreement. Since the buyer is exempt from indirect tax, the seller cannot pass on the VAT and therefore, the exemption enjoyed by the buyer shall extend to the seller, making the sale effectively zero-rated.",
+									"children": []
+									}									
+									]
+						}						
+						]
 			},
 			{
 			"name": "VAT-Exempt Transactions",
