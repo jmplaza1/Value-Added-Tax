@@ -133,7 +133,14 @@
 																{
 																"name": "Not Primarily Held for Sale",
 																"details": "to customers or held for lease in the ordinary course of trade of business",
-																"children": []
+																"children": [
+
+																			{
+																			"name": "Note",
+																			"details": "If the real property sold was used in the trade or business of the seller, the sale shall be subject to VAT being a transaction incidental to the taxpayer's main business",
+																			"children": []
+																			}
+																			]
 																},
 																{
 																"name": "Utilized for Low-Cost Housing",
@@ -154,22 +161,17 @@
 																"name": "House and lot & Other Residential Dwellings",
 																"details": "valued at P2.5M",
 																"children": [
-																																			{
-																"name": "General Rule",
-																"details": "Threshold is on a per transaction basis",
-																"children": [
-																																{
-																"name": "Exception",
-																"details": "If two or more adjacent lots are sold in favor of one buyer for the purpose of utilizing the lots as one residential lot, the sale shall be exempt from VAT only if the aggregate value of the lots do not exceed P1.5M. This does not include parking lots.",
-																"children": []
-																}	
+																			{
+																			"name": "General Rule",
+																			"details": "Threshold is on a per transaction basis",
+																			"children": [
+																			{
+																			"name": "Exception",
+																			"details": "If two or more adjacent lots are sold in favor of one buyer for the purpose of utilizing the lots as one residential lot, the sale shall be exempt from VAT only if the aggregate value of the lots do not exceed P1.5M. This does not include parking lots.",
+																			"children": []
+																			}	
 																			]
 																		
-																},
-																{
-																"name": "Note",
-																"details": "If the real property sold was used in the trade or business of the seller, the sale shall be subject to VAT being a transaction incidental to the taxpayer's main business",
-																"children": []
 																}																	
 																			]
 																}																	
