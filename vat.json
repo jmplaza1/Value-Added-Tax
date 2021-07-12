@@ -91,6 +91,12 @@
 												"url": "",
 												"details": "irrespective of any shipping arrangement that may be agreed upon which may influence or determine the transfer of ownership of the goods so exported, paid for in acceptable foreign currency or its equivalent in goods or services, and accounted for in accordance with the rules and regulations of the BSP",
 												"children": []
+												},
+												{
+												"name": "Sale of Goods, Supplies, Equipment, and Fuel to Persons Engaged Exclusively in International Shipping or International Air Transport Operations",
+												"url": "",
+												"details": "Provided, that the good, supplies, equipment, and fuel shall be used exclusively for international shipping or air transport operations. Goods subject to zero rating are limited to foods and passengers transported from a port in the Philippine directly to a foreign port, or vice versa, without docking or stopping at any other ports in the Philippines",
+												"children": []
 												}												
 												]
 									}
@@ -370,7 +376,20 @@
 																			]
 																}																
 																]
-													}															
+													},
+													{
+													"name": "Fuel, Goods, and Supplies by Persons Engaged in International Shipping or Air Transport Operations",
+													"url": "",
+													"details": "General Rule: Such fuel, goods, and/or supplies shall be used exclusively or shall pertain to the transport of goods and/or passengers from a port in the Philippines directly to a foreign port without docking or stopping at any other port in the Philippines",
+													"children":[
+																{
+																"name": "Exception",
+																"url": "",
+																"details": "The docking or stopping at any other Philippine port for the purpose of unloading passengers and/or cargoes that originated from abroad or to load passengers and/or cargoes bound for abroad",
+																"children":[]
+																}
+																]
+													}													
 													]
 										},
 										{
