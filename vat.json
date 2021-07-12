@@ -81,7 +81,34 @@
 										{
 										"name": "Sale or Importation",
 										"details": "AFAB",
-										"children": []
+										"children": [
+													{
+													"name": "Agricultural and marine products in their original state",
+													"details": "Agricultural or marine food products in their original stae, livestock and poultry of a kind generally used as, or yielding or producing foods for human consumption; and breeding stock and genetic materials therefor",
+													"children": [
+																{
+																"name": "Exceptions: RFAZO",
+																"details": "Specialty feeds for race horses, fighting cocks, aquarium fish, zoo animals, and other animals generally considered as pets",
+																"children": []
+													}
+																]
+													},
+													{
+													"name": "Sale or Importation",
+													"details": "AFAB",
+													"children": []
+													},
+													{
+													"name": "Sale or Importation",
+													"details": "AFAB",
+													"children": []
+													},
+													{
+													"name": "Sale or Importation",
+													"details": "AFAB",
+													"children": []
+													}	
+													]
 										},
 										{
 										"name": "Sale",
