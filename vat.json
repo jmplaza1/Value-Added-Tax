@@ -97,6 +97,12 @@
 												"url": "",
 												"details": "Provided, that the good, supplies, equipment, and fuel shall be used exclusively for international shipping or air transport operations. Goods subject to zero rating are limited to foods and passengers transported from a port in the Philippine directly to a foreign port, or vice versa, without docking or stopping at any other ports in the Philippines",
 												"children": []
+												},
+												{
+												"name": "Sales to Persons or Entities Deemed Tax-Exempt under Special Law or International Agreement",
+												"url": "",
+												"details": "Sales to enterprises duly registered and accredited with the following shall be effectively subject to zero-rate: 1) Subic Bay Metropolitcal Authority 2) PEZA, 3) ADB, 4) IRRI",
+												"children": []
 												}												
 												]
 									}
