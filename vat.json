@@ -1,43 +1,52 @@
 {
 "name": "Value Added Tax",
+"url": "",
 "details": "It is a tax on consumption levied on the sale, barter, exchange, or lease of goods or properties , and services in the Philippines and on importation of goods into the Philippines",
 "children": [
 			{
 			"name": "Basic Principles",
+			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 			"children": []
 			},
 			{
 			"name": "Persons Liable",
+			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 			"children": []
 			},
 						{
 			"name": "Transactions Subject to VAT",
+			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 			"children": [
 						{
 						"name": "On Sale of Goods or Properties",
+						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 						"children": []
 						},
 						{
 						"name": "On Sale of Real Properties",
+						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 						"children": []
 						},
 						{
 						"name": "On Importation of Goods",
+						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 						"children": []
 						},
 						{
 						"name": "On Sale of Service and Use or Lease of Properties",
+						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 						"children": []
 						},
 						{
 						"name": "Transactions Deemed Sale",
+						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 						"children": []
 						}						
@@ -46,29 +55,35 @@
 			},
 			{
 			"name": "Zero-Rated Sales of VAT Registered Persons",
+			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 			"children": []
 			},
 			{
 			"name": "VAT-Exempt Transactions",
+			"url": "",
 			"details": "the sale of goods or properties and/or services and the use or lease of properties that is not subject to VAT (output tax) and the seller is not allowed any tax credit of VAT (input tax) on purchases.",
 			"children": [
 							{
 							"name": "Features of VAT Exempt Transactions",
+							"url": "",
 							"details": "",
 							"children": [
 										{
 										"name": "1",
+										"url": "",
 										"details": "shall not be included in determining the general threshold prescribed by law [3M pesos]",
 										"children": []
 										},
 										{
 										"name": "2",
+										"url": "",
 										"details": "shall not be liable for VAT or the 3% percentage tax under Section 116 of the NIRC except those sale or lease of goods and properties under Sec. 109(BB) which shall be subject to 3% percentage tax if exceeding the VAT threshold",
 										"children": []
 										},									
 										{
 										"name": "3",
+										"url": "",
 										"details": "The person making the exempt sale of goods, properties, or services shall not bill any ouput tax to his customers because the said transaction is not subject to VAT.",
 										"children": []
 										}										
@@ -76,24 +91,29 @@
 							},
 							{
 							"name": "Exemptions",
+							"url": "",
 							"details": "NIRC, Section 109, as amended by Train Law",
 							"children": [
 										{
 										"name": "Sale or Importation",
+										"url": "",
 										"details": "AFAB",
 										"children": [
 													{
 													"name": "Agricultural and marine products in their original state",
+													"url": "",
 													"details": "Agricultural or marine food products in their original stae, livestock and poultry of a kind generally used as, or yielding or producing foods for human consumption; and breeding stock and genetic materials therefor",
 													"children": [
 																]
 													},
 													{
 													"name": "Fertilizers [NIRC, Sec. 109[b]",
+													"url": "",
 													"details": "Fertilizers; seeds, seedlings, and fingerlings; fish, prawn, livestock and poultry feeds, including ingredients, whether locally produced, or imported, used in the manufacture or finished feeds ",
 													"children": [
 																{
 																"name": "Exceptions: RFAZO",
+																"url": "",
 																"details": "Specialty feeds for race horses, fighting cocks, aquarium fish, zoo animals, and other animals generally considered as pets",
 																"children": []
 																}															
@@ -101,15 +121,18 @@
 													},
 													{
 													"name": "Lease of Passenger or Cargo Vessels and Aircraft",
+													"url": "",
 													"details": "including engine and spare parts of said vessels, must weigh at least 150 tons",
 													"children": [
 																{
 																"name": "In case of exemption from VAT on importation",
+																"url": "",
 																"details": "1. must weigh at least 150 tons; 2. must comply with age limit requirement, 3. RA 9295 must be complied with",
 																"children": []
 																},
 																{
 																"name": "In case of exemption from VAT on local purchase",
+																"url": "",
 																"details": "the vessel must weigh, including the esngine and spare parts, at least 150 tons.",
 																"children": []
 													}
@@ -117,6 +140,7 @@
 													},
 													{
 													"name": "Books and any Newspaper, Magazine, Review or Bulletin",
+													"url": "",
 													"details": "Sale, Importation, Printing, or Publication - must be at regular intervals, available for subscription and sold at fixed prices, and not be principaly devoted to publication of paid advertisements",
 													"children": []
 													}	
@@ -125,18 +149,22 @@
 										{
 										"name": "Sale",
 										"details": "REC2-SGD",
+										"url": "",
 										"children": [
 													{
 													"name": "Sale of real properties under Sec. 109(1)(p)",
+													"url": "",
 													"details": "REC2-SGD",
 													"children": [
 																{
 																"name": "Not Primarily Held for Sale",
+																"url": "",
 																"details": "to customers or held for lease in the ordinary course of trade of business",
 																"children": [
 
 																			{
 																			"name": "Note",
+																			"url": "",
 																			"details": "Even if the real property is not primarily held for sale to customers or held for lease in the ordinary course of trade or business but the same is used in the trade or business of the seller, the sale thereof shall be subject to VAT being a transaction incidental to the taxpayer's main business",
 																			"children": []
 																			}
@@ -144,29 +172,35 @@
 																},
 																{
 																"name": "Utilized for Low-Cost Housing",
+																"url": "",
 																"details": "",
 																"children": []
 																},
 																{
 																"name": "Utilized for Socialized Housing",
+																"url": "",
 																"details": "",
 																"children": []
 																},
 																{
 																"name": "Residential Lot Value",
+																"url": "",
 																"details": "at 1.5M pesos and below",
 																"children": []
 																},
 																{
 																"name": "House and lot & Other Residential Dwellings",
+																"url": "",
 																"details": "valued at P2.5M",
 																"children": [
 																			{
 																			"name": "General Rule",
+																			"url": "",
 																			"details": "Threshold is on a per transaction basis",
 																			"children": [
 																			{
 																			"name": "Exception",
+																			"url": "",
 																			"details": "If two or more adjacent lots are sold in favor of one buyer for the purpose of utilizing the lots as one residential lot, the sale shall be exempt from VAT only if the aggregate value of the lots do not exceed P1.5M. This does not include parking lots.",
 																			"children": []
 																			}	
@@ -179,25 +213,30 @@
 													},
 													{
 													"name": "Export sales by Persons Not VAT Registered",
+													"url": "",
 													"details": "However, if VAT Registered, his export sales are zero-rated under Sec. 106(A)(2) and Sec. 108(B) of the NIRC and claim tax credit or refund",
 													"children":[]
 													},
 													{
 													"name": "By Agricultural Cooperatives of Food and Non-Food Products",
+													"url": "",
 													"details": "(whether in original or processed form) duly registered and in good standing with the Cooperative Development Authorities",
 													"children":[
 																{
 																"name": "to members",
+																"url": "",
 																"details": "VAT-exempt whether the cooperative is the producer of the goods",
 																"children":[]
 																},
 																{
 																"name": "to non-members",
+																"url": "",
 																"details": "VAT-exempt only if the cooperative is the producer",
 																"children":[]
 																},
 																{
 																"name": "NOTE: ",
+																"url": "",
 																"details": "Sales of Marine or Agricultural Food Products in Processed Form are generally subject to VAT. However, sale by Agricultural Cooperatives are exempt from VAT. ",
 																"children":[]
 																}
@@ -206,10 +245,12 @@
 													},
 													{
 													"name": "Sales by Non-Agricultural, Non-Electric, Non-Credit Cooperatives",
+													"url": "",
 													"details": "duly registered and in good standing with the CDA. Provided that, share capital contribution of each member does not exceed 15k, and regardless of aggregate capital and net surplus ratably distributed among the members.",
 													"children":[
 																{
 																"name": "Note",
+																"url": "",
 																"details": "Importation by theese cooperatives of machinery and equipment, including spare parts thereof, to be used by them are subjects to VAT.",
 																"children": []
 																}
@@ -217,16 +258,19 @@
 													},
 													{
 													"name": "Lease of Goods and Services to Senior Citizens and Persons with Disability",
+													"url": "",
 													"details": "as provided for by RA 9994 and 10754.",
 													"children":[]
 													},
 													{
 													"name": "Gold to the Bangko Sentral",
+													"url": "",
 													"details": "",
 													"children":[]
 													},
 													{
 													"name": "Drugs and Medicines prescribed for diabetes, high cholesterol, and hypertension",
+													"url": "",
 													"details": "",
 													"children":[]
 													}															
@@ -234,24 +278,29 @@
 										},	
 										{
 										"name": "Importation",
+										"url": "",
 										"details": "PPF",
 										"children": [
 													{
 													"name": "Personal and household effects",
+													"url": "",
 													"details": "belonging to residents of the Philippines, returning from abroad, and non-resident citizens coming to resettle in the Philippines. Provided, that such goods are exempt from customs duty under the Tariff and Customs Code of the Philippines",
 													"children":[]
 													},
 													{
 													"name": "Professional instruments and implements, tools of trade, occupation, or employment, wearing apparel, domestic animals, and household effects",
+													"url": "",
 													"details": "Requisites: 1) Belonging to a person coming to settle in the Phils. or an Overseas Filipino 2) In quantities and of class suitable to the profession, rank, or position of the person importing said items 3) For their own use and not for barter or trade 4) Accompanying such persons, or arriving within a reasonable time",
 													"children":[
 																{
 																"name": "Overseas Filipinos",
+																"url": "",
 																"details": "Filipinos or their families or descendants who are now residents or citizens of other countries",
 																"children":[]
 																},		
 																{
 																"name": "NOTE:",
+																"url": "",
 																"details": "VAT exemption does not apply to importation of vehicles, vessels, aircrafts, machineries, or other similar goods for use in manufacture, and shall be subject to duties, taxes and other charges.",
 																"children":[]
 																}																
@@ -261,11 +310,13 @@
 										},
 										{
 										"name": "Services",
+										"url": "",
 										"details": "PAMEERB",
 										"children": []
 										},
 										{
 										"name": "Others",
+										"url": "",
 										"details": "L2ITO-MAS",
 										"children": []
 										}										
@@ -275,16 +326,19 @@
 			},
 			{
 			"name": "Input and Output Tax",
+			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 			"children": []
 			},
 			{
 			"name": "Withholding VAT",
+			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 			"children": []
 			},
 			{
 			"name": "VAT Registration",
+			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
 			"children": []
 			}
