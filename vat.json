@@ -302,7 +302,14 @@
 																"name": "NOTE:",
 																"url": "",
 																"details": "VAT exemption does not apply to importation of vehicles, vessels, aircrafts, machineries, or other similar goods for use in manufacture, and shall be subject to duties, taxes and other charges.",
-																"children":[]
+																"children":[
+																			{
+																			"name": "NOTE",
+																			"url": "",
+																			"details": "The BoC may exempt such goods from payment of duties and taxes on the following conditions: 1) satisfactory evidence that such person will settle in the Phils. 2) Goods are brought from former place of abode",
+																			"children":[]
+																			}
+																			]
 																}																
 																]
 													}															
@@ -312,7 +319,50 @@
 										"name": "Services",
 										"url": "",
 										"details": "PAMEERB",
-										"children": []
+										"children": [
+													{
+													"name": "Subject to Percentage Tax under Secs. 116-127 of the NIRC",
+													"url": "",
+													"details": "",
+													"children": []
+													},
+													{
+													"name": "By agricultural contract growers and milling of others",
+													"url": "",
+													"details": "of palay into rice, corn into grits, and sugar cane into raw sugar",
+													"children": []
+													},
+													{
+													"name": "Medical, dental, and veterinary services except those rendered by professionals",
+													"url": "",
+													"details": "NOTE: Laboratory services are exempt because it is a hospital service. Sale of medicine to in-patients of a hospital is VAT-exempt within the meaning of NIRC, Sec. 109(1)",
+													"children": []
+													},
+													{
+													"name": "Educational services rendered by private educational institutions",
+													"url": "",
+													"details": "duly accredited by DepEd, CHED, and TESDA, and those rendered by government educational institutions",
+													"children": []
+													},
+													{
+													"name": "Rendered by individuals pursuant to an employer-employee relationship",
+													"url": "",
+													"details": "",
+													"children": []
+													},
+													{
+													"name": "Rendered by Regional or area headquarters",
+													"url": "Established in the Philippines by multinational corporations as satellite centers for the latter and which do not earn or derive income from the Philippines.",
+													"details": "",
+													"children": []
+													},
+													{
+													"name": "Banks, non-bank financial intermediaries performing quasibank functions, and other nonbank financial intermediaries",
+													"url": "",
+													"details": "Note: Pawnshops are considered as nonbank financial intermediaries, thus exempted from VAT but liable to percentage tax.",
+													"children": []
+													}													
+													]
 										},
 										{
 										"name": "Others",
