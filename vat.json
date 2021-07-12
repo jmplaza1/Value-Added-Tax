@@ -10,10 +10,95 @@
 			"children": []
 			},
 			{
-			"name": "Persons Liable",
+			"name": "Persons Liable and Exempted",
 			"url": "",
-			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-			"children": []
+			"details": "",
+			"children": [
+						{
+						"name": "Persons Liable for VAT",
+						"url": "",
+						"details": "",
+						"children": []
+						},
+						{
+						"name": "Persons who are VAT-exempt",
+						"url": "",
+						"details": "",
+						"children": [
+									{
+									"name": "Persons not engaged in undertaking VAT-taxable transactions",
+									"url": "",
+									"details": "1) Those whose annual gross sales or receipts do not exceed P3M; 2) Non-stock/nonprofit organizations",
+									"children": []
+									},
+									{
+									"name": "Subsistence Livelihood Income",
+									"url": "",
+									"details": "Any business or businesses pursued by an individual where the aggregate gross sales or receipts do not exceed P100k during the 12 month period shall be considered principally for subsistence or livelihood not in the course of business. Hence, not subject to business tax.",
+									"children": []
+									},
+									{
+									"name": "Persons exempt from VAT under Special Laws",
+									"url": "",
+									"details": "",
+									"children": []
+									},
+									{
+									"name": "VAT-exempt under Treaty",
+									"url": "",
+									"details": "Under the Vienna Convention on Diplomatic Relations of 1961, diplomatic agents are exempt from all dues, taxes, personal or real, national, regional, or municipal. They are nevertheless subject to indirect taxes of a kind which are notmally incorporated in the price of goods and services",
+									"children": []
+									},
+									{
+									"name": "Cinema/theatre Operators",
+									"url": "",
+									"details": "Gross receipts of cinema/theatre owner or operator from sales of tickets to moviegoers are exempt from VAT. Cinema/theatre movie houses are not included in the enumeration of taxable services in the VAT Law",
+									"children": []
+									}									
+									
+									
+
+									]
+						},
+						{
+						"name": "Transactions of Special VAT Persons",
+						"url": "",
+						"details": "",
+						"children": [
+									{
+									"name": "Husband and Wife",
+									"url": "",
+									"details": "",
+									"children": []
+									},
+									{
+									"name": "Joint Venture",
+									"url": "",
+									"details": "",
+									"children": []
+									},
+									{
+									"name": "Government",
+									"url": "",
+									"details": "",
+									"children": []
+									},
+									{
+									"name": "Non-stock, Nonprofit Association",
+									"url": "",
+									"details": "",
+									"children": []
+									},
+									{
+									"name": "Importer",
+									"url": "",
+									"details": "",
+									"children": []
+									}									
+									]
+						}						
+						
+						]
 			},
 						{
 			"name": "Transactions Subject to VAT",
