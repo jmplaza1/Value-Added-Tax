@@ -368,7 +368,56 @@
 										"name": "Others",
 										"url": "",
 										"details": "L2ITO-MAS",
-										"children": []
+										"children": [
+													{
+													"name": "Lease of Residential Units",
+													"url": "",
+													"details": "If the monthly rent does not exceed 15k or exceeds 15k but the aggregate rentals received by the lessor during the year do not exceed 3M pesos. However, the same shall be subject to percentage tax.",
+													"children": []
+													},
+													{
+													"name": "Gross Receipt from Lending Activities by credit or multipurpose cooperatives",
+													"url": "",
+													"details": "duly registered with the CDA and in good standing.",
+													"children": []
+													},
+													{
+													"name": "Transactions Exempt under International Agreements",
+													"url": "",
+													"details": "to which the Philippines is a signatory or under special laws except those under PD 529.",
+													"children": []
+													},
+													{
+													"name": "Transport of passengers by international carriers",
+													"url": "",
+													"details": "The transport of cargo by international carriers doing business in the Philippines is likewise VAT-exempt, as it is subject to percentage tax on International Carrier",
+													"children": []
+													},
+													{
+													"name": "Other than the transactions mentioned in the preceeding paragraphs, the gross annual sales and/or receipts do not exceed the amount of 3M pesos",
+													"url": "",
+													"details": "Any person whose sales or receipts do not exceed 3M and not VAT registered are exempt from VAT but shall pay the 3% percentage tax on his quarterly sales or receipts.",
+													"children": []
+													},
+													{
+													"name": "Transfer of Property Pursuant to a Merger or Consolidation",
+													"url": "",
+													"details": "According to Sec. 40(C)(2) of the NIRC",
+													"children": []
+													},
+													{
+													"name": "Association dues, membership fees, and other assessments and charges collected by Homeowners Associations and Condominiums",
+													"url": "",
+													"details": "",
+													"children": []
+													},
+													{
+													"name": "Self-employed individuals and professionals availing of the 8% tax on gross sales and/or receipts and other non-operating income ",
+													"url": "",
+													"details": "",
+													"children": []
+													}													
+													]
 										}										
 										]
 							}
