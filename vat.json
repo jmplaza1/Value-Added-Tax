@@ -214,13 +214,39 @@
 																"children": []
 																}
 																]
-													}													
+													},
+													{
+													"name": "Lease of Goods and Services to Senior Citizens and Persons with Disability",
+													"details": "as provided for by RA 9994 and 10754.",
+													"children":[]
+													},
+													{
+													"name": "Gold to the Bangko Sentral",
+													"details": "",
+													"children":[]
+													},
+													{
+													"name": "Drugs and Medicines prescribed for diabetes, high cholesterol, and hypertension",
+													"details": "",
+													"children":[]
+													}															
 													]
 										},	
 										{
 										"name": "Importation",
 										"details": "PPF",
-										"children": []
+										"children": [
+													{
+													"name": "Personal and household effects",
+													"details": "belonging to residents of the Philippines, returning from abroad, and non-resident citizens coming to resettle in the Philippines. Provided, that such goods are exempt from customs duty under the Tariff and Customs Code of the Philippines",
+													"children":[]
+													},
+													{
+													"name": "Professional instruments and implements, tools of trade, occupation, or employment, wearing apparel, domestic animals, and household effects",
+													"details": "as provided for by RA 9994 and 10754.",
+													"children":[]
+													}															
+													]
 										},
 										{
 										"name": "Services",
