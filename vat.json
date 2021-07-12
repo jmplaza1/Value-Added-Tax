@@ -1,5 +1,130 @@
 {
-"name": "Income Tax",
-"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-"children": []
+"name": "Value Added Tax",
+"details": "It is a tax on consumption levied on the sale, barter, exchange, or lease of goods or properties , and services in the Philippines and on importation of goods into the Philippines",
+"children": [
+			{
+			"name": "Basic Principles",
+			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+			"children": []
+			},
+			{
+			"name": "Persons Liable",
+			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+			"children": []
+			},
+						{
+			"name": "Transactions Subject to VAT",
+			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+			"children": [
+						{
+						"name": "On Sale of Goods or Properties",
+						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+						"children": []
+						},
+						{
+						"name": "On Sale of Real Properties",
+						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+						"children": []
+						},
+						{
+						"name": "On Importation of Goods",
+						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+						"children": []
+						},
+						{
+						"name": "On Sale of Service and Use or Lease of Properties",
+						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+						"children": []
+						},
+						{
+						"name": "Transactions Deemed Sale",
+						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+						"children": []
+						}						
+
+						]
+			},
+			{
+			"name": "Zero-Rated Sales of VAT Registered Persons",
+			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+			"children": []
+			},
+			{
+			"name": "VAT-Exempt Transactions",
+			"details": "the sale of goods or properties and/or services and the use or lease of properties that is not subject to VAT (output tax) and the seller is not allowed any tax credit of VAT (input tax) on purchases.",
+			"children": [
+							{
+							"name": "Features of VAT Exempt Transactions",
+							"details": "",
+							"children": [
+										{
+										"name": "1",
+										"details": "shall not be included in determining the general threshold prescribed by law [3M pesos]",
+										"children": []
+										},
+										{
+										"name": "2",
+										"details": "shall not be liable for VAT or the 3% percentage tax under Section 116 of the NIRC except those sale or lease of goods and properties under Sec. 109(BB) which shall be subject to 3% percentage tax if exceeding the VAT threshold",
+										"children": []
+										},									
+										{
+										"name": "3",
+										"details": "The person making the exempt sale of goods, properties, or services shall not bill any ouput tax to his customers because the said transaction is not subject to VAT.",
+										"children": []
+										}										
+										]
+							},
+							{
+							"name": "Exemptions",
+							"details": "NIRC, Section 109, as amended by Train Law",
+							"children": [
+										{
+										"name": "Sale or Importation",
+										"details": "AFAB",
+										"children": []
+										},
+										{
+										"name": "Sale",
+										"details": "REC2-SGD",
+										"children": []
+										},	
+										{
+										"name": "Importation",
+										"details": "PPF",
+										"children": []
+										},
+										{
+										"name": "Services",
+										"details": "PAMEERB",
+										"children": []
+										},
+										{
+										"name": "Others",
+										"details": "L2ITO-MAS",
+										"children": []
+										}										
+										]
+							}
+						]
+			},
+			{
+			"name": "Input and Output Tax",
+			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+			"children": []
+			},
+			{
+			"name": "Withholding VAT",
+			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+			"children": []
+			},
+			{
+			"name": "VAT Registration",
+			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+			"children": []
+			}
+
+
+			
+						
+			]
 }
