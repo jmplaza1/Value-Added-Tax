@@ -127,7 +127,7 @@
 									{
 									"name": "Shall Include, Among others: RP-EMT",
 									"url": "",
-									"details": ""
+									"details": "",
 									"children": [
 												{
 												"name": "1) Real properties held primarily for sale to customers or held for lease in the ordinary course of trade of business",
@@ -164,8 +164,8 @@
 									{
 									"name": "Requisites for Taxability of Sale of Goods and Personal Properties",
 									"url": "",
-									"details": "1) The properties are located within the Philippines, and are for use or consumption therein; 2) There in an Actual or deemed sale, barter or exchange of goods or personal properties for a valuable consideration; 3) The sale in Not exempt from VAT; 4) The sale is in the course of trade or business or exercise of profession in the Philippines"
-									"children":[]
+									"details": "1) The properties are located within the Philippines, and are for use or consumption therein; 2) There in an Actual or deemed sale, barter or exchange of goods or personal properties for a valuable consideration; 3) The sale in Not exempt from VAT; 4) The sale is in the course of trade or business or exercise of profession in the Philippines",
+									"children": []
 									}									
 									]
 						},
@@ -173,25 +173,25 @@
 						"name": "On Sale of Real Properties",
 						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-						"children": []
+						"children" : []
 						},
 						{
 						"name": "On Importation of Goods",
 						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-						"children": []
+						"children" : []
 						},
 						{
 						"name": "On Sale of Service and Use or Lease of Properties",
 						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-						"children": []
+						"children" : []
 						},
 						{
 						"name": "Transactions Deemed Sale",
 						"url": "",
 						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-						"children": []
+						"children" : []
 						}						
 
 						]
@@ -200,40 +200,40 @@
 			"name": "Zero-Rated Sales of VAT Registered Persons",
 			"url": "",
 			"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-			"children": [
+			"children" : [
 						{
 						"name": "Kinds as to Object of Sale",
 						"url": "",
 						"details": "",
-						"children": [
+						"children" : [
 									{
 									"name": "Zero-Rated Sales of Goods or Properties",
 									"url": "",
 									"details": "SRROII",
-									"children": [
+									"children" : [
 												{
 												"name": "Sale and Actual Shipment of Goods from the Philippines to a Foreign Country",
 												"url": "",
 												"details": "irrespective of any shipping arrangement that may be agreed upon which may influence or determine the transfer of ownership of the goods so exported, paid for in acceptable foreign currency or its equivalent in goods or services, and accounted for in accordance with the rules and regulations of the BSP",
-												"children": []
+												"children" : []
 												},
 																								{
 												"name": "Sale of Raw Materials and Packaging Materials to a Nonresident Buyer for Delivery to a Local Export-Oriented Enterprise",
 												"url": "",
 												"details": "to be used in manufacturing, processing, packing, or repacking in the Philippines of the said buyer's goods which must be paid for in acceptable foreign currency or its equivalent in goods or services, and accounted for in accordance with the rules and regulation of the BSP",
-												"children": []
+												"children" : []
 												},
 												{
 												"name": "Sale of Raw Materials or Packing Materiasl to Export-Oriented Enterprise",
 												"url": "",
 												"details": "Export-oriented enterprise: any enterprise whose export sales exceed 70% of the total annual production",
-												"children": []
+												"children" : []
 												},
 												{
 												"name": "Those considered as export sales under the Omnibus Investment Code and other special laws",
 												"url": "",
 												"details": "irrespective of any shipping arrangement that may be agreed upon which may influence or determine the transfer of ownership of the goods so exported, paid for in acceptable foreign currency or its equivalent in goods or services, and accounted for in accordance with the rules and regulations of the BSP",
-												"children": []
+												"children" : []
 												},
 												{
 												"name": "Sale of Goods, Supplies, Equipment, and Fuel to Persons Engaged Exclusively in International Shipping or International Air Transport Operations",
