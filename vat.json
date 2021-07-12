@@ -137,7 +137,7 @@
 
 																			{
 																			"name": "Note",
-																			"details": "If the real property sold was used in the trade or business of the seller, the sale shall be subject to VAT being a transaction incidental to the taxpayer's main business",
+																			"details": "Even if the real property is not primarily held for sale to customers or held for lease in the ordinary course of trade or business but the same is used in the trade or business of the seller, the sale thereof shall be subject to VAT being a transaction incidental to the taxpayer's main business",
 																			"children": []
 																			}
 																			]
@@ -176,7 +176,46 @@
 																			]
 																}																	
 																]
-													}										
+													},
+													{
+													"name": "Export sales by Persons Not VAT Registered",
+													"details": "However, if VAT Registered, his export sales are zero-rated under Sec. 106(A)(2) and Sec. 108(B) of the NIRC and claim tax credit or refund",
+													"children":[]
+													},
+,
+													{
+													"name": "By Agricultural Cooperatives of Food and Non-Food Products",
+													"details": "(whether in original or processed form) duly registered and in good standing with the Cooperative Development Authorities",
+													"children":[
+																{
+																"name": "to members",
+																"details": "VAT-exempt whether the cooperative is the producer of the goods",
+																"children":[]
+																},
+																{
+																"name": "to non-members",
+																"details": "VAT-exempt only if the cooperative is the producer",
+																"children":[]
+																},
+																{
+																"name": "NOTE: ",
+																"details": "Sales of Marine or Agricultural Food Products in Processed Form are generally subject to VAT. However, sale by Agricultural Cooperatives are exempt from VAT. ",
+																"children":[]
+																}
+																
+																]
+													},
+													{
+													"name": "Sales by Non-Agricultural, Non-Electric, Non-Credit Cooperatives",
+													"details": "duly registered and in good standing with the CDA. Provided that, share capital contribution of each member does not exceed 15k, and regardless of aggregate capital and net surplus ratably distributed among the members.",
+													"children":[
+																{
+																"name": "Note",
+																"details": "Importation by theese cooperatives of machinery and equipment, including spare parts thereof, to be used by them are subjects to VAT.",
+																"children": []
+																}
+																]
+													}													
 													]
 										},	
 										{
