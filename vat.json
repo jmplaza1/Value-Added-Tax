@@ -243,8 +243,19 @@
 													},
 													{
 													"name": "Professional instruments and implements, tools of trade, occupation, or employment, wearing apparel, domestic animals, and household effects",
-													"details": "as provided for by RA 9994 and 10754.",
-													"children":[]
+													"details": "Requisites: 1) Belonging to a person coming to settle in the Phils. or an Overseas Filipino 2) In quantities and of class suitable to the profession, rank, or position of the person importing said items 3) For their own use and not for barter or trade 4) Accompanying such persons, or arriving within a reasonable time",
+													"children":[
+																{
+																"name": "Overseas Filipinos",
+																"details": "Filipinos or their families or descendants who are now residents or citizens of other countries",
+																"children":[]
+																},		
+																{
+																"name": "NOTE:",
+																"details": "VAT exemption does not apply to importation of vehicles, vessels, aircrafts, machineries, or other similar goods for use in manufacture, and shall be subject to duties, taxes and other charges.",
+																"children":[]
+																}																
+																]
 													}															
 													]
 										},
