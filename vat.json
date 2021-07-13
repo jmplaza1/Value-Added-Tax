@@ -191,7 +191,45 @@
 									"url": "",
 									"details": "In case of goods imported into the Philippines by VAT-exempt persons, entities, or agencies which are subsequently sold, transferred or exchanged in the Philippines to non-tax exempt persons or entities, the latter shall be considered the importers thereof who shall be liable for the VAT due on such importation.",
 									"children" : []
-									}									
+									},
+									{
+									"name": "Requisites for taxability",
+									"url": "",
+									"details": "SPCVN",
+									"children" : [
+												{
+												"name": "1",
+												"url": "",
+												"details": "There is a sale or exchange of services or lease or use of property enumerated in the law or other similar services",
+												"children" : []
+												},
+												{
+												"name": "2",
+												"url": "",
+												"details": "The service or the service to be performed in the Philippines, and in case of lease, property leased or used must be located in the Philippines. Venue of execution of contract for such transaction is irrelevant.",
+												"children" : []
+												},
+												{
+												"name": "3",
+												"url": "",
+												"details": "The service is in the course of trade or business or profession (except in case of service done in the Philippines by a non-resident person).",
+												"children" : []
+												},
+												{
+												"name": "4",
+												"url": "",
+												"details": "The service is for a valuable consideration actually or constructively received",
+												"children" : []
+												},
+												{
+												"name": "5",
+												"url": "",
+												"details": "The service is not exempt under the NIRC, special law, or international agreement",
+												"children" : []
+												}													
+												
+												]
+									}											
 									]
 						},
 						{
