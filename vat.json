@@ -178,13 +178,26 @@
 						{
 						"name": "On Importation of Goods",
 						"url": "",
-						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-						"children" : []
+						"details": "The importation of goods herein contemplated refers to importation by any person, who may or may not be engaged in trade or business",
+						"children" : [
+									{
+									"name": "Tax Base and Tax Rate",
+									"url": "",
+									"details": "Twelve percent based on 1) Total value used by the BOC in determining tariff and customs duties, excise taxes, if any, and other charges prior to the release of goods from the customs. 2) Landed cost, in case the valuation used by the BOC is based on volume and quantity. Landed cost consists of the invoice amount, customs duties, freight, insurance and other charges and also excise tax if any.",
+									"children" : []
+									},
+									{
+									"name": "Technical Importation - Sale, transfer, or exchange by tax exempt persons",
+									"url": "",
+									"details": "In case of goods imported into the Philippines by VAT-exempt persons, entities, or agencies which are subsequently sold, transferred or exchanged in the Philippines to non-tax exempt persons or entities, the latter shall be considered the importers thereof who shall be liable for the VAT due on such importation.",
+									"children" : []
+									}									
+									]
 						},
 						{
 						"name": "On Sale of Service and Use or Lease of Properties",
 						"url": "",
-						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+						"details": "Sale or exchange of services means the performance of all kinds of services in the Philippines for others for a fee, remuneration or consideration whether in kind of in cash. [NIRC, Sec. 108(A)]; Lease of properties - all forms of property for lease, whether real or personal, are liable to VAT except when the gross annual sales do not exceed the threshold. It shall be subject to VAT irrespective of the place where the contract or lease or licensing agreement was executed if the property is leased or used in the Philippines.",
 						"children" : []
 						},
 						{
