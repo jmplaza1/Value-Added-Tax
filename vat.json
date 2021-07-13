@@ -216,7 +216,19 @@
 												"url": "",
 												"details": "all forms of property for lease, whether real or personal, are liable to VAT except when the gross annual sales do not exceed the threshold. It shall be subject to VAT irrespective of the place where the contract or lease or licensing agreement was executed if the property is leased or used in the Philippines.",
 												"children" : []
-												}													
+												},
+												{
+												"name": "Gross Receipts ",
+												"url": "",
+												"details": "Total amount of money or its equivalent actually or constructively received for services performed for another person, excluding VAT representive: 1) payments on the contract price, compensation, service fee, rental or royalty; 2) the amount charged for materials supplied with services; 3) Deposit applied as payment for services rendered in advance payments",
+												"children" : [												{
+												"name": "Except",
+												"url": "",
+												"details": "1) Those amounts earmarked for payment to unrelated third party or 2) Amounts received as reimbursement for advance payment on behalf of another which do not redound to the benefit of the payor",
+												"children" : []
+												}
+																]
+												}												
 												]
 									},						
 									{	
