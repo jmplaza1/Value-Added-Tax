@@ -274,8 +274,39 @@
 						{
 						"name": "Transactions Deemed Sale",
 						"url": "",
-						"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
-						"children" : []
+						"details": "The following are transactions deemed sales: TDCR [NIRC, Sec. 106(B)] NOTE: services not included",
+						"children" : [
+									{
+									"name": "Transfer, use, consumption of goods or properties NOT in the course of business of goods or properties originally intended for sale or for use in the course of business.",
+									"url": "",
+									"details": "example: when a VAR-registered person withdraws goods from his business for his personal use; donation by a VAT-registered person of its ordinary assets",
+									"children" : []
+									},
+									{
+									"name": "Distribution or transfer to",
+									"url": "",
+									"details": "1) shareholders or investors as share in the profits of a VAT-registered person (Property Dividends; 2) Creditors in payment of a debt or obligation",
+									"children" : []
+									},
+									{
+									"name": "Consignment of Goods",
+									"url": "",
+									"details": "if actual sale is not made within 60 days following the date such goods were consigned",
+									"children" : []
+									},
+									{
+									"name": "Retirement from or cessation of business with respect to all goods on hand, whether capital goods, stock-in-trade, supplies or materials as of the date of such retirement or cessation",
+									"url": "",
+									"details": "1) shareholders or investors as share in the profits of a VAT-registered person (Property Dividends; 2) Creditors in payment of a debt or obligation",
+									"children" : []
+									},
+									{
+									"name": "TAX BASE and TAX RATE",
+									"url": "",
+									"details": "12% of the market value for transactions enumerated in (1), (2), (3). However, in retirement or cessation of business, tax base shall be the acquisition cost or the current market price of the goods or properties whichever is lower.",
+									"children" : []
+									}										
+									]
 						}						
 						]
 			},
